@@ -1,12 +1,3 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+Utilizando las teclas de dirección ←↑→↓ aplicar la transformación de traslación a la figura completa (todos los componentes deben moverse al mismo tiempo como un solo objeto).
+ Utilizando las teclas + y – aplicar la transformación de escalado con referencia en el centro del reloj, todos los componentes deben redimensionarse de forma proporcional al escalado aplicado, ya sea mayor o menor, ninguno debe mantener sus dimensiones a diferentes escalas. (El factor de escalamiento mínimo será 0.1 y el mayor el que ustedes deseen).
+Utilizando la transformación de rotación dar movimiento a las manecillas del reloj, este movimiento estará sincronizado con el reloj del sistema operativo, es decir, al iniciar su programa deberá tomar la hora del sistema y posicionar las manecillas en el lugar correspondiente, a partir de ese momento el programa trabajará por si solo aplicando rotaciones a las manecillas de acuerdo a su función (Hora, minuto, segundo).
